@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "American Pie",
+  "base_artist": "Don McLean",
+  "createdAt": "2026-02-21T03:34:24.056517Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "American Pie (Full Length Version)",
+      "artist": "Don McLean",
+      "has_synced": true,
+      "path": "select/01_American_Pie_(Full_Length_Version)_Don_McLean.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "American Pie",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/02_American_Pie_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "American Pie",
+      "artist": "Don McLean",
+      "has_synced": true,
+      "path": "select/03_American_Pie_Don_McLean.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "American Pie",
+      "artist": "Alien Ant Farm",
+      "has_synced": false,
+      "path": "select/04_American_Pie_Alien_Ant_Farm.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "American Pie",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/05_American_Pie_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "American Pie (Album Version)",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/06_American_Pie_(Album_Version)_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "American Pie (Richard Humpty Vission Radio Mix)",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/07_American_Pie_(Richard_Humpty_Vission_Radio_Mix)_Madonna.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "American Pie (Richard 'Humpty' Vission Radio Mix)",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/08_American_Pie_(Richard_'Humpty'_Vission_Radio_Mix)_Madonna.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "American Pie (Richard Humpty Vission Visits Madonna)",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/09_American_Pie_(Richard_Humpty_Vission_Visits_Madonna)_Madonna.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Be Like That (American Pie Edit)",
+      "artist": "3 Doors Down",
+      "has_synced": true,
+      "path": "select/10_Be_Like_That_(American_Pie_Edit)_3_Doors_Down.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Good (For a Woman) (American Pie Version)",
+      "artist": "Alien Ant Farm",
+      "has_synced": false,
+      "path": "select/11_Good_(For_a_Woman)_(American_Pie_Version)_Alien_Ant_Farm.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Susan (American Pie Version)",
+      "artist": "The Exit",
+      "has_synced": true,
+      "path": "select/12_Susan_(American_Pie_Version)_The_Exit.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "American Pie",
+      "artist": "The King's Singers",
+      "has_synced": false,
+      "path": "select/13_American_Pie_The_King's_Singers.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "American Pie",
+      "artist": "Don McLean",
+      "has_synced": true,
+      "path": "select/14_American_Pie_Don_McLean.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "American Pie",
+      "artist": "Don McLean",
+      "has_synced": true,
+      "path": "select/15_American_Pie_Don_McLean.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "American Pie",
+      "artist": "Don McLean",
+      "has_synced": true,
+      "path": "select/16_American_Pie_Don_McLean.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "American Pie",
+      "artist": "Don Mclean",
+      "has_synced": false,
+      "path": "select/pl_01_American_Pie_Don_Mclean.txt"
+    }
+  ]
+}
